@@ -1,0 +1,139 @@
+// 20211130150703
+// https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=09c5bc030fac42abb729e00144bdbd30
+
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Australian parliament: One in three workers sexually harassed, says report",
+        "description": "Canberra's workplace culture has left a \"trail of devastation\" for women especially, a review finds.",
+        "url": "http://www.bbc.co.uk/news/world-australia-59472194",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/814A/production/_121889033_gettyimages-1307114658.jpg",
+        "publishedAt": "2021-11-30T06:52:21.4423905Z",
+        "content": "Image source, Getty Images\r\nImage caption, Former political staffer Brittany Higgins inspired others to come forward with allegations\r\nA third of employees in Australia's federal parliament have been… [+1950 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Barbados becomes a republic and parts ways with the Queen",
+        "description": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "url": "http://www.bbc.co.uk/news/world-latin-america-59470843",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8014/production/_121888723_de27-1.jpg",
+        "publishedAt": "2021-11-30T05:52:21.2068524Z",
+        "content": "Image source, Barbados Government\r\nImage caption, Dame Sandra Mason was sworn in as the island's first president shortly after midnight\r\nBarbados has officially removed Queen Elizabeth II as its head… [+3329 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Jack Dorsey: What's next for Twitter's co-founder?",
+        "description": "The last time the tech visionary left Twitter, he set up another company now worth $100bn.",
+        "url": "http://www.bbc.co.uk/news/technology-59471636",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D4D8/production/_121888445_twitterbc.jpg",
+        "publishedAt": "2021-11-30T04:22:24.2504315Z",
+        "content": "By James ClaytonNorth America technology reporter\r\nJack Dorsey is one of Silicon Valley's eccentrics. \r\nIf he was a character in a movie, you'd think he was too cliche. \r\nAcutely earnest and idealist… [+4643 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Actor who played Judas in court over Capitol riot",
+        "description": "The Jesus Christ Superstar cast member was accused by a judge of spewing \"gobbledygook\" in court.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-59471153",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17EBA/production/_121887979_beeks.jpg",
+        "publishedAt": "2021-11-30T03:37:19.368147Z",
+        "content": "An actor in the musical Jesus Christ Superstar who is accused of participating in the US Capitol riot has clashed with a judge after rejecting the court's authority.\r\nJames Beeks, 48, is charged with… [+2607 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Jussie Smollett: Actor hatched 'secret plan' for hate hoax",
+        "description": "The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-59439796",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F88/production/_121888049_gettyimages-1356197513.jpg",
+        "publishedAt": "2021-11-30T02:52:22.1159074Z",
+        "content": "Image source, Getty Images\r\nImage caption, Mr Smollett was embraced by supporters as he entered court on Monday\r\nJussie Smollett hatched a \"secret plan\" to concoct a hoax hate crime against himself, … [+3591 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Biden says Omicron lockdowns not needed 'for now'",
+        "description": "Mr Biden says he sees no need for a new US lockdown \"if people are vaccinated and wear their masks\".",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-59469486",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/59C2/production/_121887922_gettyimages-1356218197.jpg",
+        "publishedAt": "2021-11-30T02:52:19.9133302Z",
+        "content": "Image source, Getty Images\r\nUS President Joe Biden has called the Omicron Covid variant a \"cause for concern, not a cause for panic\" one day after it was detected in North America. \r\nHe said he saw n… [+3354 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Timed Teaser: Which mammal made its last crypto trade?",
+        "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-59455585",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1592D/production/_121856388_goxpromo.jpg",
+        "publishedAt": "2021-11-29T23:52:26.9709722Z",
+        "content": "Travelling 5,000km in search of a new life. VideoTravelling 5,000km in search of a new life"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Is Santa Claus coming to town this year?",
+        "description": "With less Santas donning their suits and more demand for holiday cheer, Santa will be in short supply.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-59466832",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/945A/production/_121887973_p0b72h5f.jpg",
+        "publishedAt": "2021-11-29T23:52:23.7374011Z",
+        "content": "With less Santas donning their suits and more demand for holiday cheer, Santa will be in short supply. \r\nThe pandemic took its toll on the industry as many Santas are older, heavier men. \r\nThe compan… [+69 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ghislaine Maxwell accused of preying on young girls for Epstein to abuse",
+        "description": "The British socialite denies sex trafficking charges as her trial opens in New York",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-59455605",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A79C/production/_121480924_maxwelldrawingreutesr.jpg",
+        "publishedAt": "2021-11-29T21:07:26.1000951Z",
+        "content": "Image caption, Ms Maxwell's high-profile trial is expected to last six weeks in New York City\r\nProsecutors have alleged that British socialite Ghislaine Maxwell and convicted paedophile Jeffrey Epste… [+6396 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Enes Kanter Freedom: NBA star changes name to celebrate US citizenship",
+        "description": "Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name.",
+        "url": "http://www.bbc.co.uk/news/59439797",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28BB/production/_121872401_gettyimages-1347267258.jpg",
+        "publishedAt": "2021-11-29T16:52:25.8103533Z",
+        "content": "Image source, Getty Images\r\nOutspoken professional basketball player Enes Kanter will legally change his name to Enes Kanter Freedom to celebrate becoming a US citizen.\r\nThe Swiss-born, Turkish-raise… [+2102 chars]"
+      }
+    ]
+  }
